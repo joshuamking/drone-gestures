@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="com.google.zxing:javase:3.3.2" type="repository">
+    <properties maven-id="com.google.zxing:javase:3.3.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javase-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/javase-3.3.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-3.3.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/javase-3.3.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-3.3.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

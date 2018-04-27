@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libusb4java-osx-x86">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/crazyflie-lib/src/main/resources/libusb4java-osx-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
